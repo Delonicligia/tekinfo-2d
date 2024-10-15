@@ -1,0 +1,15 @@
+.btn-pink{
+    background-color: #fe646f;
+    color: white;
+}
+
+.bg-pink{
+    background-color: #fe646f;
+    color: white;
+}
+
+.image{
+    background-image: url(5039684-scaled.jpg);
+    background-position: center center;
+    background-size: cover;
+}
