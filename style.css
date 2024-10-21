@@ -13,3 +13,15 @@
     background-position: center center;
     background-size: cover;
 }
+
+.drop-cap {
+    float: left;
+    font-size: 4em;  /* Ukuran besar untuk huruf awal */
+    line-height: 0.8;  /* Atur jarak antar baris */
+    margin-right: 10px;  /* Jarak antara huruf besar dan teks lainnya */
+    font-weight: bold;  /* Menjadikan huruf lebih tegas */
+}
+
+.text-justify{
+    text-align: justify;
+}
